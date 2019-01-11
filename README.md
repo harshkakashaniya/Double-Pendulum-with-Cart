@@ -1,20 +1,13 @@
 # Double-Pendulum-with-Cart
 Designing a controller for stabilization of pendulums to its equilibrium state with its animation.
 
-Pendulum System.
+## Pendulum System.
 
 <p align="center">
-  <img width="500" height="350" src="Images/pendulum_1.png">
+  <img width="300" height="350" src="Pendulum_gif.gif">
 </p>
 
-<p align="center">Change in position due to step input.
-<p align="center">
-
-<p align="center">
-  <img width="500" height="350" src="Images/pendulum_f.png">
-</p>
-
-<p align="center">Equlilbrium Position of pedulums
+<p align="center">Animation of Controlled motion.
 <p align="center">
 
 # Steps of Project
